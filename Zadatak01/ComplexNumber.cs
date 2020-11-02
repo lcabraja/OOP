@@ -1,6 +1,6 @@
 using System.Numerics;
 
-namespace Zadatak01
+namespace Zadatak03
 {
     public class ComplexNumber
     {

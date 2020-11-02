@@ -6,8 +6,42 @@
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="OOP.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
-      <e p="Vjezbe05" t="Include" />
-      <e p="Vjezbe06" t="Include" />
+      <e p="Vjezbe05" t="Include">
+        <e p="Zadatak04" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Circle.cs" t="Include" />
+          <e p="GeometricalFigure.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="Zadatak04.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Program.cs" t="Include" />
+          <e p="Rectangle.cs" t="Include" />
+          <e p="Triangle.cs" t="Include" />
+          <e p="Zadatak04.csproj" t="IncludeRecursive" />
+        </e>
+      </e>
+      <e p="Vjezbe06" t="Include">
+        <e p="Zadatak03" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Car.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="Zadatak03.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Program.cs" t="Include" />
+          <e p="SportsCar.cs" t="Include" />
+          <e p="Truck.cs" t="Include" />
+          <e p="Vehicle.cs" t="Include" />
+          <e p="Zadatak03.csproj" t="IncludeRecursive" />
+        </e>
+      </e>
       <e p="Zadatak01" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="ComplexNumber.cs" t="Include" />

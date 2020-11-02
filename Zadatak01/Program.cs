@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Numerics;
-using static Zadatak01.ComplexNumber;
+using static Zadatak03.ComplexNumber;
 
-namespace Zadatak01
+namespace Zadatak03
 {
     class Program
     {
