@@ -15,7 +15,7 @@ namespace Zadatak02
 
         public override string ToString() => $"Color: {Color}, Number of Legs: {LegCount}";
         
-        public override bool Equals(object? obj) =>
+        public override bool Equals(object obj) =>
             (obj is Frog other) && other.Color.Equals(Color) && other.LegCount.Equals(LegCount);
         
         public override int GetHashCode() => Color.GetHashCode() * 31 + LegCount.GetHashCode();

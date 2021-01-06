@@ -5,6 +5,9 @@
     <projectFile>Vjezbe05/Vjezbe05.csproj</projectFile>
     <projectFile>Zadatak02/Zadatak02.csproj</projectFile>
     <projectFile>Vjezbe05/Zadatak04/Zadatak04.csproj</projectFile>
+    <projectFile>Vjezbe06/Zadatak03/Zadatak03.csproj</projectFile>
+    <projectFile>Vjezbe06/Zadatak01/Zadatak01.csproj</projectFile>
+    <projectFile>Vjezbe11/Zadatak01/Zadatak01.csproj</projectFile>
   </component>
   <component name="BranchesTreeState">
     <expand>
@@ -17,17 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ecedeec-5bee-4d91-83d6-5d6d36f8ddf9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Vjezbe06/Zadatak01/Extensions.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vjezbe06/Zadatak01/IRemoteControllable.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vjezbe06/Zadatak01/ISwitchable.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vjezbe06/Zadatak01/LightBulb.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vjezbe06/Zadatak01/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vjezbe06/Zadatak01/Stove.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vjezbe06/Zadatak01/URC.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vjezbe06/Zadatak01/Zadatak01.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vjezbe11/Zadatak01/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vjezbe11/Zadatak01/Zadatak01.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.OOP/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OOP/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OOP/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OOP/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OOP/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP.sln" beforeDir="false" afterPath="$PROJECT_DIR$/OOP.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vjezbe05/Zadatak04/Zadatak04.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Vjezbe05/Zadatak04/Zadatak04.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vjezbe06/Zadatak01/Zadatak01.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Vjezbe06/Zadatak01/Zadatak01.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vjezbe06/Zadatak03/Zadatak03.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Vjezbe06/Zadatak03/Zadatak03.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadatak01/Zadatak01.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Zadatak01/Zadatak01.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadatak02/Frog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Zadatak02/Frog.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadatak02/Zadatak02.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Zadatak02/Zadatak02.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,46 +47,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Zadatak01/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/EB067793-5C3F-4219-AEF1-3AB117C20649/2D/Object.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Vjezbe06/Zadatak03/SportsCar.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Vjezbe06/Zadatak03/Truck.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vjezbe06/Zadatak03/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Vjezbe06/Zadatak03/Vehicle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vjezbe06/Zadatak03/Truck.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vjezbe06/Zadatak03/Car.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vjezbe06/Zadatak03/SportsCar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vjezbe06/Zadatak03/Vehicle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Zadatak01/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/Vjezbe05/ImaginaryNumber.cs" />
-        <option value="$PROJECT_DIR$/Vjezbe05/Program.cs" />
-        <option value="$PROJECT_DIR$/Vjezbe05/ComplexNumber.cs" />
-        <option value="$PROJECT_DIR$/Zadatak01/ComplexNumber.cs" />
-        <option value="$PROJECT_DIR$/Zadatak02/Program.cs" />
-        <option value="$PROJECT_DIR$/Zadatak02/Frog.cs" />
-        <option value="$PROJECT_DIR$/Vjezbe06/Zadatak01/Truck.cs" />
-        <option value="$PROJECT_DIR$/Vjezbe06/Zadatak01/SportsCar.cs" />
-        <option value="$PROJECT_DIR$/Vjezbe06/Zadatak01/Triangle.cs" />
-        <option value="$PROJECT_DIR$/Vjezbe05/Zadatak04/Program.cs" />
-        <option value="$PROJECT_DIR$/Vjezbe05/Zadatak04/Rectangle.cs" />
-        <option value="$PROJECT_DIR$/Vjezbe05/Zadatak04/Circle.cs" />
-        <option value="$PROJECT_DIR$/Vjezbe05/Zadatak04/GeometricalFigure.cs" />
-        <option value="$PROJECT_DIR$/Vjezbe05/Zadatak04/Triangle.cs" />
-        <option value="$PROJECT_DIR$/Vjezbe06/Zadatak01/Car.cs" />
-        <option value="$PROJECT_DIR$/Vjezbe06/Zadatak01/Vehicle.cs" />
-        <option value="$PROJECT_DIR$/Vjezbe06/Zadatak03/Truck.cs" />
-        <option value="$PROJECT_DIR$/Vjezbe06/Zadatak01/Format.cs" />
-        <option value="$PROJECT_DIR$/Vjezbe06/Zadatak01/Unit.cs" />
-        <option value="$PROJECT_DIR$/Vjezbe06/Zadatak01/Extensions.cs" />
-        <option value="$PROJECT_DIR$/Vjezbe06/Zadatak01/StoveType.cs" />
-        <option value="$PROJECT_DIR$/Vjezbe06/Zadatak01/Stove.cs" />
-        <option value="$PROJECT_DIR$/Vjezbe06/Zadatak01/LightBulb.cs" />
-        <option value="$PROJECT_DIR$/Vjezbe06/Zadatak01/IRemoteControllable.cs" />
-        <option value="$PROJECT_DIR$/Vjezbe06/Zadatak01/ISwitchable.cs" />
-        <option value="$PROJECT_DIR$/Vjezbe06/Zadatak01/URC.cs" />
-        <option value="$PROJECT_DIR$/Vjezbe06/Zadatak01/Program.cs" />
-      </list>
-    </option>
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Vjezbe11/Zadatak01/Class1.cs" />
+      <option value="$PROJECT_DIR$/Vjezbe11/Zadatak01/Program.cs" />
+      <option value="$PROJECT_DIR$/Zadatak02/Frog.cs" />
+    </changedPaths>
   </component>
   <component name="ProjectId" id="1jQExjDZc89Cu5tbPrVz7rPoEU6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -96,6 +73,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.karma.karma_node_package_dir" value="" />
@@ -109,21 +87,75 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.Vjezbe06\Zadatak01 (1)">
-    <configuration name="Vjezbe06\Zadatak01 (1)" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/Vjezbe06/Zadatak01/bin/Debug/netcoreapp3.1/Zadatak01.dll" />
+  <component name="RunManager" selected=".NET Project.Vjezbe05\Zadatak04">
+    <configuration name="Vjezbe05\Zadatak01" type="DotNetProject" factoryName=".NET Project" folderName="Vjezbe05" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Zadatak01/bin/Debug/net5.0/Zadatak01.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Vjezbe06/Zadatak01/bin/Debug/netcoreapp3.1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zadatak01/bin/Debug/net5.0" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Vjezbe06/Zadatak01/Zadatak01.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Zadatak01/Zadatak01.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="PROJECT_TFM" value="net5.0" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Vjezbe05\Zadatak02" type="DotNetProject" factoryName=".NET Project" folderName="Vjezbe05" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Zadatak02/bin/Debug/net5.0/Zadatak02.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zadatak02/bin/Debug/net5.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Zadatak02/Zadatak02.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="net5.0" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Vjezbe05\Zadatak03" type="DotNetProject" factoryName=".NET Project" folderName="Vjezbe05" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Vjezbe06/Zadatak03/bin/Debug/net5.0/Zadatak03.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Vjezbe06/Zadatak03/bin/Debug/net5.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Vjezbe06/Zadatak03/Zadatak03.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="net5.0" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Vjezbe05\Zadatak04" type="DotNetProject" factoryName=".NET Project" folderName="Vjezbe05" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Vjezbe05/Zadatak04/bin/Debug/net5.0/Zadatak04.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Vjezbe05/Zadatak04/bin/Debug/net5.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Vjezbe05/Zadatak04/Zadatak04.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="net5.0" />
       <method v="2">
         <option name="Build" />
       </method>
@@ -146,56 +178,20 @@
         <option name="Build" />
       </method>
     </configuration>
-    <configuration name="Zadatak01" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/Zadatak01/bin/Debug/netcoreapp3.1/Zadatak01.dll" />
+    <configuration name="Vjezbe11\Zadatak01" type="DotNetProject" factoryName=".NET Project" folderName="Vjezbe11">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Vjezbe11/Zadatak01/bin/Debug/net5.0/Zadatak01.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zadatak01/bin/Debug/netcoreapp3.1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Vjezbe11/Zadatak01/bin/Debug/net5.0" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Zadatak01/Zadatak01.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Vjezbe11/Zadatak01/Zadatak01.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
-    <configuration name="Zadatak02" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/Zadatak02/bin/Debug/netcoreapp3.1/Zadatak02.dll" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zadatak02/bin/Debug/netcoreapp3.1" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Zadatak02/Zadatak02.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
-    <configuration name="Zadatak04" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Vjezbe05/Zadatak04/Zadatak04.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_TFM" value="net5.0" />
       <method v="2">
         <option name="Build" />
       </method>
@@ -233,15 +229,18 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue=".NET Project.Zadatak01" />
-      <item itemvalue=".NET Project.Zadatak02" />
-      <item itemvalue=".NET Project.Zadatak04" />
-      <item itemvalue=".NET Project.Vjezbe06\Zadatak01" />
-      <item itemvalue=".NET Project.Vjezbe06\Zadatak01 (1)" />
+      <item itemvalue=".NET Project.Vjezbe05\Zadatak01" />
+      <item itemvalue=".NET Project.Vjezbe05\Zadatak04" />
+      <item itemvalue=".NET Project.Vjezbe05\Zadatak03" />
+      <item itemvalue=".NET Project.Vjezbe05\Zadatak02" />
+      <item itemvalue=".NET Project.Vjezbe11\Zadatak01" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue=".NET Project.Vjezbe06\Zadatak01 (1)" />
+        <item itemvalue=".NET Project.Vjezbe05\Zadatak02" />
+        <item itemvalue=".NET Project.Vjezbe05\Zadatak04" />
+        <item itemvalue=".NET Project.Vjezbe05\Zadatak03" />
+        <item itemvalue=".NET Project.Vjezbe05\Zadatak01" />
         <item itemvalue=".NET Project.Vjezbe06\Zadatak01" />
       </list>
     </recent_temporary>
@@ -257,6 +256,8 @@
       <workItem from="1603728181498" duration="4442000" />
       <workItem from="1604337537271" duration="9639000" />
       <workItem from="1604939265826" duration="3628000" />
+      <workItem from="1609782662932" duration="4347000" />
+      <workItem from="1609938965219" duration="2639000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1604339244334</created>
@@ -297,63 +298,5 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="440" y="190" key="#Deployment" timestamp="1604348901994">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="440" y="190" key="#Deployment/0.0.1680.1050@0.0.1680.1050" timestamp="1604348901994" />
-    <state x="304" y="186" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604341345770">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="304" y="186" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1604341345770" />
-    <state x="586" y="397" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1604348853392">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="586" y="397" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/0.0.1680.1050@0.0.1680.1050" timestamp="1604348853392" />
-    <state width="1638" height="353" key="GridCell.Tab.0.bottom" timestamp="1604942427486">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="353" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1604942427486" />
-    <state width="1398" height="295" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1604404975667" />
-    <state width="1638" height="353" key="GridCell.Tab.0.center" timestamp="1604942427484">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="353" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1604942427484" />
-    <state width="1398" height="295" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1604404975656" />
-    <state width="1638" height="353" key="GridCell.Tab.0.left" timestamp="1604942427484">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="353" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1604942427484" />
-    <state width="1398" height="295" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1604404975655" />
-    <state width="1638" height="353" key="GridCell.Tab.0.right" timestamp="1604942427485">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="353" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1604942427485" />
-    <state width="1398" height="295" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1604404975665" />
-    <state x="440" y="264" key="Rider.ProjectTemplateDialog.Size" timestamp="1604939335910">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="440" y="264" key="Rider.ProjectTemplateDialog.Size/0.0.1680.1050@0.0.1680.1050" timestamp="1604939335910" />
-    <state x="652" y="233" key="RiderGenerateDialog" timestamp="1604942226055">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="652" y="233" key="RiderGenerateDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1604942226055" />
-    <state x="400" y="187" key="SettingsEditor" timestamp="1604349422132">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="400" y="187" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1604349422132" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1604349242291">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1604349242291" />
-    <state x="504" y="247" key="run.anything.popup" timestamp="1604940966591">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="504" y="247" key="run.anything.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1604940966591" />
-    <state x="503" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1604942787296">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="503" y="231" width="672" height="678" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1604942787296" />
   </component>
 </project>
